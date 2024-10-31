@@ -1,10 +1,10 @@
-> Ouvrir cette page à [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/LISEZMOI.md)
+> Ouvrir cette page à [https://eliotttak.github.io/pxt-calibration/LISEZMOI.md](https://eliotttak.github.io/pxt-calibration/LISEZMOI.md)
 
 > You search the English page ? Click here : [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
 ## À propos de ce dépos
 
-Ce dépos est
+Ce dépos est une extension pour [https://makecode.microbit.org/](Microsoft Makecode for Micro:bit) servant à gérer l'étallonage des dispositifs analogiques (gachettes, josticks, etc.) en mesurant le courant sortant du dispositif pour la position neutre (centre) et les extrêmes (haut, bas, gauche, droite)
 
 ## Utiliser comme extension
 
