@@ -2,7 +2,7 @@
 namespace Calibrate { 
     //% block
     //% pin1.defl=AnalogPin.P1
-    export function calibrateone(pin1: AnalogPin) {
+    export function calibrat(pin1: AnalogPin) {
         while (!calibrate([pin1])) {}
     }
     //% block
