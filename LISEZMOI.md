@@ -4,6 +4,11 @@
 
 Ce dépos est une extension pour [Microsoft Makecode for Micro:bit](https://makecode.microbit.org/) servant à gérer l'étallonage des dispositifs analogiques (gachettes, josticks, etc.) en mesurant le courant sortant du dispositif pour la position neutre (centre) et les extrêmes (haut, bas, gauche, droite)
 
+## À propos des nouveaux blocs
+
+### Calibrate one [P1 ▼]
+
+
 ## Utiliser comme extension
 
 Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
