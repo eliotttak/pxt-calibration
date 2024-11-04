@@ -7,7 +7,13 @@ Ce dépos est une extension pour [Microsoft Makecode for Micro:bit](https://make
 ## À propos des nouveaux blocs
 
 ### Calibrate one [P1 ▼]
+Permet de calibrer un composant connecté sur une seule broche (donc une seule axe, comme une gâchette)
 
+### Calibrate two [P1 ▼] [P2 ▼]
+Permet de calibrer un composant connecté sur deux broches (donc deux axes, comme un joystick)
+
+### Read [P1 ▼]
+Permet de lire la position actuelle de l'axe en prenant en compte la calibration (position neutre = 0 ; position basse = -100 ; position haute = 100)
 
 ## Utiliser comme extension
 
