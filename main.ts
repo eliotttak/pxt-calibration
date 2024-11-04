@@ -22,6 +22,12 @@ namespace Calibrate {
         }
         return pins.map(value, ranges[pin].zero, ranges[pin].max, 0, 100)
     }
+
+    //% block
+    export function hello() {
+        basic.showString("HELLO")
+    }
+
     let timer = 0
     let stage = 0
     let ranges: {[key: string]: { min: number, max: number, zero: number }} = null
