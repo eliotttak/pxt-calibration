@@ -1,6 +1,6 @@
 > Open this page at [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
-> Vous cherchez la page en français ? Cliquez ici : [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
+> Vous cherchez la page en français ? Cliquez ici : [https://github.com/eliotttak/pxt-calibration/blob/master/LISEZMOI.md](https://github.com/eliotttak/pxt-calibration/blob/master/LISEZMOI.md)
 
 ## About this repository
 
