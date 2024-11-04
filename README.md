@@ -1,4 +1,4 @@
-> Ouvrir cette page à [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
+> Open this page at [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
 > Vous cherchez la page en français ? Cliquez ici : [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
@@ -24,24 +24,23 @@ This repository can be added as an **extension** to MakeCode.
 * Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * Click on **New project**
 * Click on **Extensions** in the gear menu
-* recherchez **https://github.com/eliotttak/pxt-calibration** et importez
+* Search **https://github.com/eliotttak/pxt-calibration** and import
 
-## Éditer ce projet ![Badge du statut de la compilation](https://github.com/eliotttak/pxt-calibration/workflows/MakeCode/badge.svg)
+## Edit this project ![Compilation status badge](https://github.com/eliotttak/pxt-calibration/workflows/MakeCode/badge.svg)
 
-Éditer ce dépôt dans MakeCode.
+Edit this repository in Makecode.
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Importer** puis cliquez sur **Importer l'URL **
-* collez **https://github.com/eliotttak/pxt-calibration** et cliquez sur importer
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click on **Importer** then click on **Import the URL **
+* Paste **https://github.com/eliotttak/pxt-calibration** and click on import
 
-## Aperçu des blocs
+## Block overview
 
-Cette section montre le code des blocs du dernier commit dans la branche master.
-Cette image peut prendre quelques minutes pour être actualisée.
+This section shows the block code of the last commit in the master branch.
+This image may take a few minutes to update.
+![A rendering of the block view](https://github.com/eliotttak/pxt-calibration/raw/master/.github/makecode/blocks.png)
 
-![Un rendu de la vue des blocs](https://github.com/eliotttak/pxt-calibration/raw/master/.github/makecode/blocks.png)
-
-#### Métadonnées (utilisées pour la recherche, le rendu)
+#### Metadata (used for the search, the rendering)
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
