@@ -1,18 +1,29 @@
-> Ouvrir cette page à [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/LISEZMOI.md)
+> Ouvrir cette page à [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
-> You search the English page ? Click here : [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
+> Vous cherchez la page en français ? Cliquez ici : [https://eliotttak.github.io/pxt-calibration/](https://eliotttak.github.io/pxt-calibration/)
 
-## À propos de ce dépos
+## About this repository
 
-Ce dépos est
+This repository is a [Microsoft Makecode for Micro:bit](https://makecode.microbit.org/) extension used to manage the calibration of the analogues devices (triggers, joysticks, etc.) by measuring the outgoing current from the device for the neutral position (center) and the extremes (top, bottom, left, right)
+
+## About the new blocks
+
+### Calibrate one [P1 ▼]
+Used to calibrate a component connected to a single pin (i.e. a single axis, such as a trigger).
+
+### Calibrate two [P1 ▼] [P2 ▼]
+Used to calibrate a component connected to two pins (i.e. two axes, like a joystick).
+
+### Read [P1 ▼]
+Reads the current axis position, taking calibration into account (neutral position = 0; low position = -100; high position = 100).
 
 ## Utiliser comme extension
 
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
+This repository can be added as an **extension** to MakeCode.
 
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Click on **New project**
+* Click on **Extensions** in the gear menu
 * recherchez **https://github.com/eliotttak/pxt-calibration** et importez
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/eliotttak/pxt-calibration/workflows/MakeCode/badge.svg)
