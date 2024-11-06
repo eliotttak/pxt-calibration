@@ -13,6 +13,7 @@ namespace Calibrate {
     //% block
     //% pin.defl=AnalogPin.P1
     export function read(pin: AnalogPin) {
+        console.log('test')
         if (!ranges || !ranges[pin]) {
             return NaN
         }
