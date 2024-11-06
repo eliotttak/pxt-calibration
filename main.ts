@@ -13,7 +13,6 @@ namespace Calibrate {
     //% block
     //% pin.defl=AnalogPin.P1
     export function read(pin: AnalogPin) {
-        console.log('test')
         if (!ranges || !ranges[pin]) {
             return NaN
         }
@@ -24,10 +23,6 @@ namespace Calibrate {
         return pins.map(value, ranges[pin].zero, ranges[pin].max, 0, 100)
     }
 
-    //% block
-    export function hello() {
-        basic.showString("HELLO")
-    }
 
     let timer = 0
     let stage = 0
